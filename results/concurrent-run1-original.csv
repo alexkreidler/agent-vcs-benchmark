@@ -1,0 +1,5 @@
+system,median_commits_per_sec,min_commits_per_sec,max_commits_per_sec,reps,note
+git-default,167.69,113.92,261.44,3,
+git-durable,260.61,239.01,261.41,3,
+pijul,103.48,100.24,306.61,3,
+perforce,4.40,4.40,4.40,1,single shared-server trial; 4-agent smoke gave 3.29

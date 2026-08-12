@@ -1,0 +1,12 @@
+system,median_commits_per_sec,min_commits_per_sec,max_commits_per_sec,reps,note
+pijul,308.58,292.70,325.20,3,
+git-durable,263.32,257.17,274.44,3,
+git-default,252.28,233.77,261.77,3,
+claw,159.72,145.65,163.91,3,
+twigg,126.69,122.90,127.23,3,
+oxen,87.60,79.39,88.45,3,
+forgejo,14.52,14.41,14.72,3,
+fossil,8.01,7.98,8.07,3,
+jj,7.42,7.38,7.66,3,
+mercurial,5.76,5.64,5.78,3,
+sapling,4.50,4.49,4.51,3,
